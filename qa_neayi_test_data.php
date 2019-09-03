@@ -9,6 +9,13 @@ class neayi_test_data
     public function addAllTestData()
     {
         $this->addTestUsers();
+        $this->addTestPosts('questions-vigne.txt');
+    }
+
+    public function removeAllTestData()
+    {
+        $this->removeTestUsers();
+        $this->removeTestQuestions();
     }
 
     public function addTestUsers($nbOfUsers = 50)
@@ -61,11 +68,6 @@ class neayi_test_data
         }
     }
 
-    public function removeAllTestData()
-    {
-        $this->removeTestUsers();
-    }
-
     public function removeTestUsers()
     {
         require_once QA_INCLUDE_DIR . 'db/users.php';
@@ -77,6 +79,32 @@ class neayi_test_data
 
         foreach ($ids as $userid)
             qa_db_user_delete($userid);
+    }
+
+    public function removeTestQuestions()
+    {
+        require_once QA_INCLUDE_DIR . 'app/posts.php';
+
+        $ids = qa_db_read_all_values(qa_db_query_sub(
+            'SELECT postid FROM ^postmetas WHERE title=$ AND content=$',
+            'qa_q_extra', 'testPost'
+        ));
+
+        foreach ($ids as $postid)
+        {
+            $answers = qa_post_get_question_answers($postid);
+            foreach ($answers as $answer)
+            {
+                $commentsfollows = qa_post_get_answer_commentsfollows($answer['postid']);
+                foreach ($commentsfollows as $comment)
+                    qa_post_delete($comment['postid']);
+                qa_post_delete($answer['postid']);
+            }
+            $commentsfollows = qa_post_get_question_commentsfollows($postid);
+            foreach ($commentsfollows as $comment)
+                qa_post_delete($comment['postid']);
+            qa_post_delete($postid);
+        }
     }
 
     private function createTestUsers($nbOfUsers)
@@ -149,4 +177,37 @@ class neayi_test_data
         $str = preg_replace('/[^a-z]/', '', $str);
         return $str;
     }
+
+    public function addTestPosts($filename = '')
+    {
+        if (empty($filename))
+            $filenames = glob(__DIR__ . '/test_data/questions-*');
+        else
+            $filenames = array(__DIR__ . '/test_data/' . $filename);
+
+        foreach ($filenames as $afilename)
+        {
+            $this->parseQuestionFile($afilename);
+        }
+    }
+
+    private function parseQuestionFile($filename)
+    {
+        $lines = file($filename);
+
+        require_once __DIR__ . '/qa-neayi-test-post.php';
+
+        $post = new testPost();
+
+        foreach ($lines as $line)
+        {
+            if ($post->parseLine($line))
+            {
+                $post->storeInDB();
+                $post = new testPost();
+            }
+        }
+    }
+
+
 }

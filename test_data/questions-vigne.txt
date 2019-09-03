@@ -1,0 +1,44 @@
+-T Fermentation en levure indigènes ?
+Bonjour, 
+
+Certains d’entre vous ont-ils déjà produit du rosé en levures indigènes ?
+
+Quels sont vos retours d’expérience ?
+-K Levures-Indigènes, Vigne, Fermentation-Alcoolique
+--
+Sachant que les levures indigènes actives ne sont pas majoritairement sur le raisin mais fournies par l’air ambiant du chais, et que les levures exogènes peuvent aussi laisser la place aux indigènes quand on choisit leur introduction, le problème se complique, surtout si on cherche une bio protection.
+--
+Tous les vins peuvent être élaborés à partir de levure indigène. Une fermentation spontanée permet toujours d avoir plus de complexité car il n y a pas seulement une levure qui fait tout le travail mais bien plusieurs à des stades différents. Ce qu il faut pour ça c est bien sûr des raisins corrects et être en bio car c est dans ce mode d agriculture qu il y a le plus de vie. 
+Si vous voulez après aller plus loin dans la réflexion, il faut se poser la question du soufre, oui ou non, avant la FA.
+-C La question du souffre étant essentiellement une question liée à l'état sanitaire de la vendange
+--
+Notre rosé est en indigène. Fermentation sans problème, attention à pas trop débourber pour un meilleur départ de fermentation alcoolique
+--
+Essayé il y a trois ans, super fermentation mais dégradation en qualité à mon souvenir sur la fin de fermentation, mais je ne sais pas si c'est dû à cela
+j'avais une autre cuve pour comparaison en levures exogènes qui était un peu moins bon au départ mais plus régulier sur la fin
+-A
+-E
+-T Quelle machine pour travailler sous le rang pour des vignes à champagne ?
+Bonjour j'aurai voulu savoir quel outil vous avez pour travailler sous le rang pour des vignes à Champagne, si vous avez des marques et modèles à me conseiller. Merci !
+-K Travail-Sous-Le-Rang, Vigne, Champagne
+--
+Les lames boisselet sont très bien (http://www.boisselet.fr/) - à mettre avec une bineuse Kult Kress (https://www.kress-landtechnik.eu/fr/)
+--
+Les interceps actisol/braun (https://actisol-agri.fr/) sont idéaux pour travailler le dessous de rang. Utilisables avec ou sans palpeur (ne blesse pas le cep même sans palpeur car c'est un fonctionnement de type hydraulique). Peut être couplé avec un étançon et une dent ouvreuse pour ouvrir le sol en début de campagne.
+
+Dans quelle secteur êtes vous situez ? Car nous réalisons les montages sur chenillard ou enjambeur. Fait sur mesure. Nous avons de très bon retour de nos clients.
+-A
+-E
+-T Surgreffer ou replanter ?
+Je me pose la question de procéder à l'arrachage de ma vigne sur une des parcelles. Un voisin me conseille plutôt un surgreffage... Qu'en pensez-vous ?
+-K Vigne, Surgreffage, Replantage
+--
+Tiré de https://paca.chambres-agriculture.fr/fileadmin/user_upload/Provence-Alpes-Cote_d_Azur/020_Inst_Paca/CA83/Documents/Agriculteurs/prestations_vignerons/publi_viti_var_plantation_surgreffage.pdf
+Dans la mesure où le surgreffage n’entraîne la perte que d’une seule récolte contre au moins trois lors d’une replantation, il
+peut sembler plus économique.
+Le service viticole de la Chambre d’agriculture a estimé à 22 000 €/ha environ le coût d’un arrachage-replantation et à entre 12 000 et 16 500 €/ha celui d’un surgreffage, selon qu’il soit fait par l’exploitant lui-même ou en prestation (en tout ou partie). Même en tenant compte des primes à l’arrachage, le surgreffage s’avère en moyenne moins cher, d’après cette estimation.
+Toutefois, ces calculs n’incluent pas les coûts de préparation et d’entretien. 
+
+Attention, il est difficile d’étendre cette moyenne à tous les cas : le coût total d’un surgreffage varie fortement en fonction de l’état des vignes à surgreffer (âge, maladies, conduite…), de la qualité des greffons, des conditions météorologiques, etc...
+-A
+-E
