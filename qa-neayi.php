@@ -54,7 +54,7 @@ class qa_neayi {
 		{
 			if ( qa_check_form_security_code( 'neayi/admin_options', qa_post_text( 'code' ) ) )
 			{
-				require_once dirname( __FILE__ ) . '/qa_neayi_test_data.php';
+				require_once dirname( __FILE__ ) . '/qa-neayi-test-data.php';
 				$testData = new neayi_test_data();
 				$testData->addAllTestData();
 				$saved = true;
@@ -70,7 +70,7 @@ class qa_neayi {
 		{
 			if ( qa_check_form_security_code( 'neayi/admin_options', qa_post_text( 'code' ) ) )
 			{
-				require_once dirname( __FILE__ ) . '/qa_neayi_test_data.php';
+				require_once dirname( __FILE__ ) . '/qa-neayi-test-data.php';
 				$testData = new neayi_test_data();
 				$testData->removeAllTestData();
 				$saved = true;
