@@ -90,6 +90,8 @@ class neayi_test_data
             'qa_q_extra', 'testPost'
         ));
 
+        //        $ids = qa_db_read_all_values(qa_db_query_sub('SELECT postid FROM ^posts'));
+
         foreach ($ids as $postid)
         {
             $answers = qa_post_get_question_answers($postid);

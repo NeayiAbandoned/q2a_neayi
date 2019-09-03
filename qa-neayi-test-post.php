@@ -94,7 +94,7 @@ class testPost
 
     public function storeInDB()
     {
-        require_once QA_INCLUDE_DIR . 'app\posts.php';
+        require_once QA_INCLUDE_DIR . 'app/posts.php';
 
         $categoryid = null;
         $notify = null;
@@ -132,7 +132,7 @@ class testPost
 
     private function votePost($postId, $authorId)
     {
-        require_once QA_INCLUDE_DIR . 'app\votes.php';
+        require_once QA_INCLUDE_DIR . 'app/votes.php';
 
         $post = array('postid' => $postId, 'basetype' => 'Q', 'userid' => $authorId);
 
@@ -145,7 +145,7 @@ class testPost
 
     private function voteAnswer($postId, $authorId, $answerId)
     {
-        require_once QA_INCLUDE_DIR . 'app\votes.php';
+        require_once QA_INCLUDE_DIR . 'app/votes.php';
 
         $post = array('postid' => $answerId, 'basetype' => 'A', 'userid' => $authorId, 'parentid' => $postId);
 
