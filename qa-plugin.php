@@ -44,7 +44,10 @@ if (!defined('QA_VERSION')) { // don't allow this page to be requested directly 
 
 qa_register_plugin_module('page', 'qa-neayi.php', 'qa_neayi', 'Neayi Configuration');
 
+// Register a layer that will add the cookie JS
+qa_register_plugin_layer('qa-neayi-layer.php', 'Neayi Layer');
 
 /*
 	Omit PHP closing tag to help avoid accidental output
 */
+

@@ -90,6 +90,7 @@ class neayi_test_data
             'qa_q_extra', 'testPost'
         ));
 
+        // Debug : Remove all posts:
         //        $ids = qa_db_read_all_values(qa_db_query_sub('SELECT postid FROM ^posts'));
 
         foreach ($ids as $postid)
@@ -119,24 +120,22 @@ class neayi_test_data
 
         $givenNames = file(__DIR__ . '/test_data/noms.txt');
 
-        $males = array();
-
-        for ($i = 0; $i < min($nbOfUsers, count($malePictures)); $i++)
-            $males[] = $this->generateOneUser($maleFirstNames, $givenNames, $malePictures[$i]);
-
-        $nbOfUsers -= count($males);
-
         $females = array();
-
         for ($i = 0; $i < min($nbOfUsers, count($femalePictures)); $i++)
-            $females[] = $this->generateOneUser($femaleFirstNames, $givenNames, $femalePictures[$i]);
-
+            $females[$femalePictures[$i]] = $this->generateOneUser($femaleFirstNames, $givenNames, $femalePictures[$i]);
         $nbOfUsers -= count($females);
 
-        for ($i = 0; $i < $nbOfUsers; $i++)
-            $males[] = $this->generateOneUser($maleFirstNames, $givenNames);
+        $males = array();
+        for ($i = 0; $i < min($nbOfUsers, count($malePictures)); $i++)
+            $males[$malePictures[$i]] = $this->generateOneUser($maleFirstNames, $givenNames, $malePictures[$i]);
+        $nbOfUsers -= count($males);
 
-        return $males + $females;
+        for ($i = 0; $i < $nbOfUsers; $i++)
+            $males[$i] = $this->generateOneUser($maleFirstNames, $givenNames); // add some more users without avatars
+
+        $ret = array_merge($males, $females);
+
+        return $ret;
     }
 
     private function generateOneUser($firstnames, $givennames, $picture = '')
