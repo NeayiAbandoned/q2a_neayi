@@ -8,14 +8,15 @@ Quels sont vos retours d’expérience ?
 --
 Sachant que les levures indigènes actives ne sont pas majoritairement sur le raisin mais fournies par l’air ambiant du chais, et que les levures exogènes peuvent aussi laisser la place aux indigènes quand on choisit leur introduction, le problème se complique, surtout si on cherche une bio protection.
 --
-Tous les vins peuvent être élaborés à partir de levure indigène. Une fermentation spontanée permet toujours d avoir plus de complexité car il n y a pas seulement une levure qui fait tout le travail mais bien plusieurs à des stades différents. Ce qu il faut pour ça c est bien sûr des raisins corrects et être en bio car c est dans ce mode d agriculture qu il y a le plus de vie. 
+Tous les vins peuvent être élaborés à partir de levure indigène. Une fermentation spontanée permet toujours d'avoir plus de complexité car il n y a pas seulement une levure qui fait tout le travail mais bien plusieurs à des stades différents. Ce qu il faut pour ça c'est bien sûr des raisins corrects et être en bio car c'est dans ce mode d'agriculture qu'il y a le plus de vie.
+
 Si vous voulez après aller plus loin dans la réflexion, il faut se poser la question du soufre, oui ou non, avant la FA.
 -C La question du souffre étant essentiellement une question liée à l'état sanitaire de la vendange
 --
 Notre rosé est en indigène. Fermentation sans problème, attention à pas trop débourber pour un meilleur départ de fermentation alcoolique
 --
-Essayé il y a trois ans, super fermentation mais dégradation en qualité à mon souvenir sur la fin de fermentation, mais je ne sais pas si c'est dû à cela
-j'avais une autre cuve pour comparaison en levures exogènes qui était un peu moins bon au départ mais plus régulier sur la fin
+Essayé il y a trois ans, super fermentation mais dégradation en qualité à mon souvenir sur la fin de fermentation, mais je ne sais pas si c'est dû à cela.
+J'avais une autre cuve pour comparaison en levures exogènes qui était un peu moins bon au départ mais plus régulier sur la fin
 -A
 -E
 -T Quelle machine pour travailler sous le rang pour des vignes à champagne ?
@@ -26,7 +27,7 @@ Les lames boisselet sont très bien (http://www.boisselet.fr/) - à mettre avec 
 --
 Les interceps actisol/braun (https://actisol-agri.fr/) sont idéaux pour travailler le dessous de rang. Utilisables avec ou sans palpeur (ne blesse pas le cep même sans palpeur car c'est un fonctionnement de type hydraulique). Peut être couplé avec un étançon et une dent ouvreuse pour ouvrir le sol en début de campagne.
 
-Dans quelle secteur êtes vous situez ? Car nous réalisons les montages sur chenillard ou enjambeur. Fait sur mesure. Nous avons de très bon retour de nos clients.
+Dans quelle secteur êtes vous situé ? Car nous réalisons les montages sur chenillard ou enjambeur. Fait sur mesure. Nous avons de très bon retour de nos clients.
 -A
 -E
 -T Surgreffer ou replanter ?
@@ -34,11 +35,95 @@ Je me pose la question de procéder à l'arrachage de ma vigne sur une des parce
 -K Vigne, Surgreffage, Replantage
 --
 Tiré de https://paca.chambres-agriculture.fr/fileadmin/user_upload/Provence-Alpes-Cote_d_Azur/020_Inst_Paca/CA83/Documents/Agriculteurs/prestations_vignerons/publi_viti_var_plantation_surgreffage.pdf
-Dans la mesure où le surgreffage n’entraîne la perte que d’une seule récolte contre au moins trois lors d’une replantation, il
-peut sembler plus économique.
+Dans la mesure où le surgreffage n’entraîne la perte que d’une seule récolte contre au moins trois lors d’une replantation, il peut sembler plus économique.
+
 Le service viticole de la Chambre d’agriculture a estimé à 22 000 €/ha environ le coût d’un arrachage-replantation et à entre 12 000 et 16 500 €/ha celui d’un surgreffage, selon qu’il soit fait par l’exploitant lui-même ou en prestation (en tout ou partie). Même en tenant compte des primes à l’arrachage, le surgreffage s’avère en moyenne moins cher, d’après cette estimation.
+
 Toutefois, ces calculs n’incluent pas les coûts de préparation et d’entretien. 
 
 Attention, il est difficile d’étendre cette moyenne à tous les cas : le coût total d’un surgreffage varie fortement en fonction de l’état des vignes à surgreffer (âge, maladies, conduite…), de la qualité des greffons, des conditions météorologiques, etc...
+-A
+-E
+-T Quel diamètre pour des doigts Kress en vigne de 2m et 2,5m ?
+Bonjour, 
+
+Quel diamètre vous me conseillez pour un futur achat de doigt Kress vignes en 2,00m et 2,50m ? Ils seront montés derrière une rangée de trois disques émotteur. 370 ou 540 me semble les mieux adaptés??
+
+Merci pour vos idées
+-K KULT Kress, Bineuse à doigts, Vigne
+--
+540 se sont les mieux et soit des jaunes pour les jeunes vignes et des rouges pour les veilles vignes
+-A
+--
+540 sans hésiter ...
+--
+On est en vigne étroite (1,40 à 1,70) et j’utilise les 540 sans pbs, tu pourrais même prendre les 700, plus les doigts sont long mieux ça bosse. Ceux qui ont des vignes un peu plus large que moi sont en 700. Vu qu’elles sont inclinées ça ne travaille pas très large dans le rang au final mais surtout le long et sur le cavaillon.
+--
+J’ai commandé des kress en diamètre 700 pour de vignes de 2m à 2m50 et des rouges car c’est apparemment les plus costaud ou du moins pour les sols les plus durs.
+--
+Prix du model 700 ?
+-C 1500€
+-C pour unité?
+-C Oui pour les rouges
+-C Merci
+--
+2 question bêtes : est ce que cela marche en présence de cailloux ? sont ils efficace apres debuttage pour finir de nettoyer autour du cep ? merci de vos reponse
+--
+Quelqu'un aurait-il essayé les Kress diamètre 1000 en vigne ?
+-C Moi je reçois des 620 ce matin 😎 je te dirai ça 👍
+--
+Est-ce que l'on peut les adapter sur n'importe quel porte outils ?
+-C oui
+-E
+-T Mélange argile sulfurée et granulovirus
+Avez-vous des avis sur le mélange granulovirus (Madex) et l’argile sulfurée ? J’ai entendu des opinions contradictoires au sujet. C’est pour une application dans des pommiers. Merci d’avance.
+-K Argile sulfurée, Granulovirus, Madex, Pomme
+--
+Andermatt recommande l’utilisation d’argile sulfurée seule, tandis que des autres fabricants conseillent ce mélange. Moi personnellement, je préfére éviter par précaution.
+-A
+-C C’est bizarre, car la fiche produit du Madex cautionne le mélange avec tous les produits phytosanitaires… Peut-être il y a une réaction avec l’argile?
+--
+Le Madex peut être utilisé avec des produits sulfurés.
+-E
+-T Utilisation des biostimulants pour protection sécheresse 
+Est-ce que les bio stimulants (type Rhizovital, Smartfoil, …) ont des résultats visibles dans les cultures en stress hydrique ? Quelqu’un peut témoigner de leur experience et si ça veut le cout ?
+-K Biostimulant, Stress environnemental, Sécheresse
+--
+A mon avis, l’utilisation de biostimulant permet d’obtenir une amélioration de la santé des sols qui se traduit par le développement de plants plus vigoureux, moins enclins au dépérissement. Il est possible de vérifier la diversité microbienne et la biodiversité des sols, le taux de maladie des plants, le rendement sur plusieurs années. Les cultures se trouvent moins impactées par les conditions environnementales avec l’utilisation de biostimulant. C’est un investissement long terme pour moi. 
+--
+C’est essentiellement des fertilisant ayant pour fonction de stimuler les processus de nutrition des végétaux, indépendamment des éléments nutritifs qu'il contient, dans le seul but d'améliorer une ou plusieurs des caractéristiques des végétaux ou de leur rhizosphère et améliorer leur rendement et tolérance aux stress environnementaux dont la sécheresse. Statistiquement, les fabricants voient des résultats, personnellement, je ne crois pas trop.
+-C De nombreuses substances sont encore mal connues ou mal utilisées, ce qui peut résulter en des résultats prometteurs au laboratoire mais décevants en conditions de production. De gros efforts de recherche sont encore nécessaires pour bien comprendre leur mode d’action et les facteurs influençant leur efficacité, afin de permettre une bonne utilisation des produits. 
+-E
+-T Espèces recommandées enherbement allées vigne
+Je voudrais enherber les allées de mon vignoble. Pourriez-vous suggérer des espèces adaptés qui résistent du piétinement et qui ne favorisent pas des maladies ?
+
+Je suis dans le Sud-Ouest. 
+
+Merci
+-K Enherbement, Vigne	
+--
+Je vous recommande de regarder le guide pratique dans le site http://www.vignevin-occitanie.com/fiches-pratiques/enherbement-permanent/ 
+--
+Attention: il faudra que vos vignes aient au moins 3 ans pour éviter des effets de concurrence. Ensuite, le plus facile est de laisser l’herbe pousser ! si vous avez de la fausse roquette, trèfle souterrain, véronique, souci, renouée des oiseaux ou encore du pâturin, c’est gagné.
+
+Si vous cherchez à maitriser les espèces, vous avez des mélanges de graminées (fétuque rouge, fétuque ovine, koelerie, ray-grass, dactyle, pâturin des prés) et légumineuses. 
+Vous pouvez aussi combiner les deux techniques en fonction de vos conditions et besoins.
+-C Il y a des semenciers qui vendent des mélanges optimisés pour les vignes (par ex : Enherb’vigne de Caussade)
+-E
+-T Le cépage Muscaris est-il précoce ?
+Bonjour ! J'ai l'idée de planter du muscaris sur une parcelle en IGP Var. Est-ce que ce cépage est précoce?
+-K Cépages, Muscaris, Vigne
+--
+Oui le muscaris est précoce : sur les parcelles suivies dans le Var, nous réalisons des vendanges plutôt la 1ère quinzaine d'août !
+-A
+--
+Oui, moi j'ai planté du muscaris en 2015 et depuis que je le vendange, ça n'est jamais après le 20 août (secteur Nord-Var à Pontevès)
+-E
+-T Variété de cépage qui n'ait pas besoin de phyto dans le Var ?
+Bonjour ! 
+J'ai une parcelle en bord de cours d'eau, à Flassans sur terroir calcaire caillouteux, et je souhaiterais planter une variété que je n'aurai plus à traiter avec des phytos. Que me conseillez-vous?
+-K Cépages, Vigne
+--
+Vous pouvez vous orienter vers un cépage résistant aux maladies, que vous pourrez revendiquer en IGP. Le Vidoc donne de bons résultats en rosé sur ce type de terroir. Attention, 1 ou 2 traitements seront tout de même nécessaires
 -A
 -E
